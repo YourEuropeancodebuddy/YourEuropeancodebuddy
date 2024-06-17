@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YourEuropeancodebuddy
+- 👋 Hi, I’m @YourEuropeantechbuddy
 - 👀 I’m interested in front-end development 
 - 🌱 I’m currently improving my Python skills
 - 💞️ I’m looking to collaborate on projects
