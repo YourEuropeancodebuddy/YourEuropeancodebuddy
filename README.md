@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YourEuropeantechbuddy
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently improving my Python skills
+- 👀 I’m interested in software development, Data and Machine Learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me gerardrudonahimana@gmail.com or youreuropeantechbuddy on Instagram
 - 😄 Pronouns: he/him
